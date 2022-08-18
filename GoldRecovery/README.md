@@ -6,8 +6,8 @@
 
 - Rougher feed — исходное сырье
 - Rougher additions — флотационные реагенты: Xanthate, Sulphate, Depressant
-- Xanthate **— ксантогенат;
-- Sulphate — сульфат;
+- Xanthate — ксантогенат
+- Sulphate — сульфат
 - Depressant — депрессант (силикат натрия)
 - Rougher process  — флотация
 - Rougher tails — отвальные хвосты
