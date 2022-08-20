@@ -1,7 +1,6 @@
 # Репозиторий проектов по Data Science<br>
 
-![image](https://user-images.githubusercontent.com/43203558/185769060-84a2072c-0470-495d-b066-96e5b0dc4779.png)
-
+![image](https://user-images.githubusercontent.com/43203558/185769078-9eda1365-ec0c-46e5-af84-4b740decd1a5.png)
 
 ## Данные проекты были выполнены в ходе обучения в Яндекс.Практикуме, профессии "Специалист по Data Science" ![image](https://user-images.githubusercontent.com/43203558/185769068-d69a0078-fc55-4420-a6f0-4048d958268b.png)
 
