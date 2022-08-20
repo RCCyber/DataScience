@@ -1,8 +1,8 @@
 # Репозиторий проектов по Data Science<br>
 
-![image](https://user-images.githubusercontent.com/43203558/185769078-9eda1365-ec0c-46e5-af84-4b740decd1a5.png)
+![image](https://1.bp.blogspot.com/-VkkqRlyJ8so/XseCugGU9DI/AAAAAAAAAF8/mTA5WFPddBcVu4OUFl9BlTNwqSUK-LSfQCLcBGAsYHQ/s400/what-is-data-science.jpg)
 
-## Данные проекты были выполнены в ходе обучения в Яндекс.Практикуме, профессии "Специалист по Data Science" ![image](https://user-images.githubusercontent.com/43203558/185769068-d69a0078-fc55-4420-a6f0-4048d958268b.png)
+## Данные проекты были выполнены в ходе обучения в Яндекс.Практикуме, профессии "Специалист по Data Science" ![image](https://user-images.githubusercontent.com/43203558/185769093-653331a2-5483-4685-b053-4ab1c525e1f3.png)
 
 | Название проекта | Описание | Используемые библиотеки | 
 | :---------------------- | :---------------------- | :---------------------- |
