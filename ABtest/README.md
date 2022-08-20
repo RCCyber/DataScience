@@ -1,5 +1,7 @@
 # Проект по А/B-тестированию
-![image](https://user-images.githubusercontent.com/43203558/185768870-24c3e9b4-1b6f-4734-a9f1-22e3f7dfd8e3.png)
+
+![image](https://user-images.githubusercontent.com/43203558/185768879-02cd6bd1-3610-4242-a6ce-0e357197722f.png)
+
 ## Данные
 
 В наличии были следующие данные:
