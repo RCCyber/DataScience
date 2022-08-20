@@ -11,5 +11,5 @@
 | [Исследование технологического процесса очистки золота](GoldRecovery) | Спрогнозировать концентрацию золота при проведении процесса очистки золота| *pandas* *sklearn* *matplotlib* *seaborn* *numpy* |
 | [Оптимизация потребления  электроэнергии на предприятии](Metallurgy) | Уменьшение потребления электроэнергии на этапе обработки стали | *pandas* *matplotlib* *seaborn* *sklearn*  *catboost*  *lightgbm*  *xgboost*  *tensorflow* |
 | [Прогнозирование количества заказов такси на следующий час](TimeSeries) | Разработка модели предсказания объема заказа| *pandas* *numpy* *matplotlib* *seaborn* *sklearn* *xgboost* *plotly* *statsmodels* |
-
+| [А/B-тестирование ](ABtest) | Провести оценку результатов A/B-теста| *pandas* *numpy* *matplotlib* *seaborn* *plotly* *math* *scipy* |
 
