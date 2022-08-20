@@ -1,7 +1,7 @@
 # Проект: Оптимизация коэффициента восстановления золота
 
 
-![Флотация](http://www.miningmes.com/upload/2016-04/08/flotation_column_Beijing_HOT_Mining_Tech_Co_Ltd_6-0f36f.png)
+![Флотация](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Flottateur.svg/1600px-Flottateur.svg.png)
 
 
 ## Данные
