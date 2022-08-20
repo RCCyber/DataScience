@@ -1,5 +1,5 @@
 # Проект: Определение возраста покупателей
-[](https://payspacemagazine.com/wp-content/uploads/2018/10/faceid4.jpg)
+![](https://payspacemagazine.com/wp-content/uploads/2018/10/faceid4.jpg)
 ## Данные
 
 В наличии были следующие данные:
