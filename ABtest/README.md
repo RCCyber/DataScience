@@ -1,4 +1,4 @@
-# Проект по А/B-тестированию
+# Проект: А/B-тестированиe
 
 ![image](https://user-images.githubusercontent.com/43203558/185768879-02cd6bd1-3610-4242-a6ce-0e357197722f.png)
 
