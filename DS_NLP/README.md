@@ -1,5 +1,6 @@
 # Проект: Обнаружение негативных комментариев
 
+![](https://www.kok.team/files/images/covers/313/consultation-1900x700-c.jpg)
 
 ## Данные
 
