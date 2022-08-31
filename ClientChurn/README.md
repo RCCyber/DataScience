@@ -1,5 +1,5 @@
 # Проект: Отток клиентов
-
+Статус проекта: Завершён
 ![image](https://user-images.githubusercontent.com/43203558/185768909-dcd6b8ae-215c-4fa4-ba63-6168cfc7734f.png)
 
 
