@@ -1,4 +1,5 @@
 # Проект: SQL
+Статус проекта: Завершён
 
 ![image](https://user-images.githubusercontent.com/43203558/185768988-74ba239b-f07d-486f-a8a6-a26d49a39681.png)
 
