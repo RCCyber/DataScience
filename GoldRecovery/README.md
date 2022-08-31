@@ -1,5 +1,5 @@
 # Проект: Оптимизация коэффициента восстановления золота
-
+Статус проекта: Завершён
 
 ![Флотация](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Flottateur.svg/1600px-Flottateur.svg.png)
 
